@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+matplotlib
+plotly
+streamlit
+faiss-cpu
+sentence-transformers
+openai
+python-dotenv
+pypdf
